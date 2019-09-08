@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b0a10a48-238c-403a-8c7c-9e4f567bece1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../HubSpot/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HubSpot/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GitFinal/HW08--FINAL/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GitFinal/HW08--FINAL/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GitFinal/HW08--FINAL/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GitFinal/HW08--FINAL/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GitFinal/HW08--FINAL/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GitFinal/HW08--FINAL/HW08--FINAL.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GitFinal/HW08--FINAL/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GitFinal/HW08--FINAL/TODO.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GitFinal/HW08--FINAL/src/cs3500/animator/Excellence.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GitFinal/HW08--FINAL/src/cs3500/animator/adapter/model/ModelAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GitFinal/HW08--FINAL/src/cs3500/animator/adapter/model/MotionAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GitFinal/HW08--FINAL/src/cs3500/animator/adapter/model/ReadOnlyModelAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GitFinal/HW08--FINAL/src/cs3500/animator/adapter/model/ShapeAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GitFinal/HW08--FINAL/src/cs3500/animator/controller/Controller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GitFinal/HW08--FINAL/src/cs3500/animator/controller/ControllerImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GitFinal/HW08--FINAL/src/cs3500/animator/model/Board.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GitFinal/HW08--FINAL/src/cs3500/animator/model/IBoard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GitFinal/HW08--FINAL/src/cs3500/animator/model/ImmutableBoard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GitFinal/HW08--FINAL/src/cs3500/animator/provider/model/AnimatorModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GitFinal/HW08--FINAL/src/cs3500/animator/provider/model/IMotion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GitFinal/HW08--FINAL/src/cs3500/animator/provider/model/IReadOnlyModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GitFinal/HW08--FINAL/src/cs3500/animator/provider/model/IShape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GitFinal/HW08--FINAL/src/cs3500/animator/provider/view/AnimatorPanel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GitFinal/HW08--FINAL/src/cs3500/animator/provider/view/AnimatorView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GitFinal/HW08--FINAL/src/cs3500/animator/provider/view/EditableView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GitFinal/HW08--FINAL/src/cs3500/animator/provider/view/EditorPanel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GitFinal/HW08--FINAL/src/cs3500/animator/provider/view/IEditView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GitFinal/HW08--FINAL/src/cs3500/animator/provider/view/IVisualGraphicsView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GitFinal/HW08--FINAL/src/cs3500/animator/provider/view/MyTimerActionListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GitFinal/HW08--FINAL/src/cs3500/animator/provider/view/VisualGraphicsView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GitFinal/HW08--FINAL/src/cs3500/animator/shapes/Keyframe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GitFinal/HW08--FINAL/src/cs3500/animator/shapes/KeyframeImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GitFinal/HW08--FINAL/src/cs3500/animator/shapes/OurShape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GitFinal/HW08--FINAL/src/cs3500/animator/shapes/Posn.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GitFinal/HW08--FINAL/src/cs3500/animator/shapes/ShapeImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GitFinal/HW08--FINAL/src/cs3500/animator/util/AnimationBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GitFinal/HW08--FINAL/src/cs3500/animator/util/AnimationReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GitFinal/HW08--FINAL/src/cs3500/animator/view/AbstractVisualFrame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GitFinal/HW08--FINAL/src/cs3500/animator/view/Editor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GitFinal/HW08--FINAL/src/cs3500/animator/view/EditorFrameImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GitFinal/HW08--FINAL/src/cs3500/animator/view/EditorView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GitFinal/HW08--FINAL/src/cs3500/animator/view/IView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GitFinal/HW08--FINAL/src/cs3500/animator/view/PaintShapes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GitFinal/HW08--FINAL/src/cs3500/animator/view/SVGView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GitFinal/HW08--FINAL/src/cs3500/animator/view/TextView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GitFinal/HW08--FINAL/src/cs3500/animator/view/VisualFrameImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GitFinal/HW08--FINAL/src/cs3500/animator/view/VisualView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GitFinal/HW08--FINAL/test/BoardTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GitFinal/HW08--FINAL/test/KeyframeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GitFinal/HW08--FINAL/test/ViewTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW05" beforeDir="false" afterPath="$PROJECT_DIR$/../HW05" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW06" beforeDir="false" afterPath="$PROJECT_DIR$/../HW06" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRank/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HackerRank/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRank/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HackerRank/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRank/src/Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HackerRank/src/Practice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interview_DIR/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Interview_DIR/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVC_Lecture/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MVC_Lecture/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Turtle_Lecture/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Turtle_Lecture/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1320323276">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="1995" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="1995" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/FitBit.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="299">
+              <caret line="13" column="43" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/FitBit.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <bower-package value="" />
+    <bower.json value="" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PennAppsXX" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PennAppsXX" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1567884744345" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript.Bower" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="FitBit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FitBit" />
+      <module name="PennAppsXX" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FitBit" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b0a10a48-238c-403a-8c7c-9e4f567bece1" name="Default Changelist" comment="" />
+      <created>1567875224077</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567875224077</updated>
+      <workItem from="1567875225288" duration="7362000" />
+      <workItem from="1567891127280" duration="2749000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="10111000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23020135" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.25248227" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/FitBit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="43" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>PennAppsXX</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
